@@ -42,6 +42,12 @@ The result is not another chatbot or isolated AI feature.
 
 **It is a working system with architecture, controls, evidence and accountability.**
 
+## Public Technical Artifact
+
+[Bounded Agentic Execution Architecture](https://github.com/RizAISystems/bounded-agentic-execution-architecture)
+
+A working reference architecture demonstrating bounded autonomy, authority checks, controlled tool execution, approval gates, validation, evidence logging and automated regression testing.
+
 ## Engineering Portfolio
 
 [View the AI Systems Engineering Portfolio](https://riz-ai.rz07860.chatgpt.site/)
