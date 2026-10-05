@@ -25,7 +25,7 @@ I take objectives that are not yet fully defined, rapidly learn the domain, dete
 
 I use multiple AI systems as specialized engineering resources across research, architecture, implementation, debugging, review and validation while retaining responsibility for the complete system and its technical outcomes.
 
-## Current Work
+## Engineering Scope
 
 Recent engineering work includes:
 
