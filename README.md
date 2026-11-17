@@ -13,7 +13,8 @@
 <p align="center">
   <a href="https://riz-ai.rz07860.chatgpt.site/">Engineering Portfolio</a> ·
   <a href="https://riz-ai.rz07860.chatgpt.site/technology-opportunities/">Original Technologies</a> ·
-  <a href="https://riz-ai.rz07860.chatgpt.site/strategic-opportunities/">Strategic Opportunities</a> ·\n  <a href="https://riz-ai.rz07860.chatgpt.site/funded-engineering/">Funded Engineering</a> ·
+  <a href="https://riz-ai.rz07860.chatgpt.site/strategic-opportunities/">Strategic Opportunities</a> ·
+  <a href="https://riz-ai.rz07860.chatgpt.site/funded-engineering/">Funded Engineering</a> ·
   <a href="https://www.linkedin.com/in/rizrz/">LinkedIn</a>
 </p>
 
