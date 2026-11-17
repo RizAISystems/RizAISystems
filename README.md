@@ -99,8 +99,10 @@ My work connects initial problem framing to executable architectures, controlled
 
 ## Strategic engagements
 
-I consider **funded original technology development**, advanced engineering commissions, strategic retainers, technology partnerships and exceptional remote senior engineering mandates. Commercial discussions can concern new technology invention, defined development milestones or the appropriate rights to a specific existing technology. Background intellectual property and engagement terms are handled explicitly.\n\nFor teams with a defined AI-enabled trading workflow, the current funded engineering offer is a fixed-fee, ten-working-day first stage. Exact scope, fee and acceptance tests are agreed after reviewing the client interface and sandbox requirements.
+I consider **funded original technology development**, advanced engineering commissions, strategic retainers, technology partnerships and exceptional remote senior engineering mandates. Commercial discussions can concern new technology invention, defined development milestones or the appropriate rights to a specific existing technology. Background intellectual property and engagement terms are handled explicitly.
 
-[Explore Strategic Opportunities](https://riz-ai.rz07860.chatgpt.site/strategic-opportunities/) · [Funded Engineering](https://riz-ai.rz07860.chatgpt.site/funded-engineering/) · [Engineering Portfolio](https://riz-ai.rz07860.chatgpt.site/) · [Three-page V9 Résumé](https://riz-ai.rz07860.chatgpt.site/Rizwan_Datoo_Engineering_Portfolio_Resume.pdf) · [LinkedIn](https://www.linkedin.com/in/rizrz/)
+For teams with a defined AI-enabled trading workflow, the current funded engineering offer is a fixed-fee, ten-working-day first stage. Exact scope, fee and acceptance tests are agreed after reviewing the client interface and sandbox requirements.
+
+[Explore Strategic Opportunities](https://riz-ai.rz07860.chatgpt.site/strategic-opportunities/) · [Funded Engineering](https://riz-ai.rz07860.chatgpt.site/funded-engineering/) · [Engineering Portfolio](https://riz-ai.rz07860.chatgpt.site/) · [Current three-page résumé (PDF)](https://riz-ai.rz07860.chatgpt.site/Rizwan_Datoo_Engineering_Portfolio_Resume.pdf) · [LinkedIn](https://www.linkedin.com/in/rizrz/)
 
 *Validation counts above describe specific recorded checks. They do not imply independent certification, continuing CI status, commercial traction or production deployment.*
